@@ -1,6 +1,23 @@
 # Sistem Penjualan Tiket Konser dengan Manajemen Harga dan Kuota
 
-Aplikasi konsol menggunakan **Bahasa C** untuk simulasi penjualan tiket konser dengan kategori Reguler dan VIP. Setiap kategori memiliki Presale 1, Presale 2, dan Presale 3. Harga dan kuota bertambah pada setiap tahap presale.
+## Identitas Mahasiswa
+- **Nama:** Nicolaus Rangga S.
+- **NIM:** 622025018
+
+## Deskripsi Aplikasi
+Aplikasi konsol berbasis Bahasa C untuk mengelola penjualan tiket konser dengan kategori Reguler dan VIP. Setiap kategori memiliki Presale 1, Presale 2, dan Presale 3. Semakin tinggi tahap presale, harga tiket semakin meningkat dan kuota tersedia semakin besar. Data akun, paket, dan transaksi disimpan dalam berkas teks.
+
+## Daftar Fitur
+- Register, login, dan logout akun.
+- Menampilkan paket tiket berdasarkan kategori dan tahap presale.
+- Pengelolaan harga dan kuota tiket.
+- Antrean pembelian dan pencatatan transaksi.
+- Riwayat transaksi serta fitur undo.
+- Sorting ascending/descending dengan dua algoritma.
+- Sequential Search dan Binary Search.
+- Hash Table untuk pencarian akun.
+- Binary Search Tree (BST) dengan insert, search, delete, dan traversal.
+- Graph dengan traversal DFS dan BFS.
 
 ## Struktur folder
 
